@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="accc7216-34e9-460c-987a-448e3dc09f71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/java/com/wotos/wotosconfig/security/rsa/crypto/CipherUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/java/com/wotos/wotosconfig/security/rsa/crypto/KeyStoreKeyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/java/com/wotos/wotosconfig/security/rsa/crypto/RsaAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/java/com/wotos/wotosconfig/security/rsa/crypto/RsaKeyHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/java/com/wotos/wotosconfig/security/rsa/crypto/RsaKeyHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/java/com/wotos/wotosconfig/security/rsa/crypto/RsaRawEncryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/java/com/wotos/wotosconfig/security/rsa/crypto/RsaSecretEncryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/model/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/model/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/model/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/model/Suspension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/PlayerServiceContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/dao/PlayerRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/model/PlayerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/model/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/model/StatisticsByMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/TankCompact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/TankFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/DefaultProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/Images.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/ModuleTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/PricesXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Ammo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/HullArmor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Modules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Suspension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/Turret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/defaultprofile/TurretArmor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/util/feign/ModuleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/util/model/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/util/model/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/util/model/Suspension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/dao/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/filters/JwtRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/CustomUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/LocalUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/LocalUserViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/UserAuthenticationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/UserJwt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/security/Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/util/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-config/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-config/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-config/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-module-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-module-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/controller/ModuleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/controller/ModuleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/model/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/model/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/service/ModuleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/java/com/wotos/wotosmoduleservice/service/ModuleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-module-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-module-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-player-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/controller/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/controller/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/dao/PlayerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/dao/PlayerDaoJdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/model/PlayerAverageStats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/model/PlayerViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/service/PlayerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/java/com/wotos/wotosplayerservice/service/PlayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-player-service/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-player-service/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/WotosTankServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/WotosTankServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/controller/TankController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/controller/TankController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/dao/TankDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/dao/TankDaoJdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/Crew.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/Crew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/submodels/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/model/TankViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/service/TankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/java/com/wotos/wotostankservice/service/TankService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-tank-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-tank-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/WotosUserServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/WotosUserServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/dao/UserDaoJdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/UserAverageStats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/model/UserViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/java/com/wotos/wotosuserservice/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wotos-user-service/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../wotos-user-service/src/main/resources/schema.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Kevin\.m2\wrapper\dists\apache-maven-3.6.0-bin\2dakv70gp803gtm5ve1ufmvttn\apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g9eiPKYYGdKMWPhzAet4p1pBTC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wotos-config" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WotosEurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wotos.wotoseureka.WotosEurekaApplication" />
+      <module name="wotos-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wotos.wotoseureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WotosEurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="accc7216-34e9-460c-987a-448e3dc09f71" name="Default Changelist" comment="" />
+      <created>1597531361826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597531361826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="18" key="FileChooserDialogImpl" timestamp="1602738138596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="18" key="FileChooserDialogImpl/0.0.1920.1040/-1920.121.1920.1040@0.0.1920.1040" timestamp="1602738138596" />
+    <state width="914" height="361" key="GridCell.Tab.0.bottom" timestamp="1603218809666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="361" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-113.1920.1040@0.0.1920.1040" timestamp="1598208634416" />
+    <state width="914" height="361" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.121.1920.1040@0.0.1920.1040" timestamp="1603218809666" />
+    <state width="914" height="361" key="GridCell.Tab.0.center" timestamp="1603218809666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="361" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-113.1920.1040@0.0.1920.1040" timestamp="1598208634416" />
+    <state width="914" height="361" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.121.1920.1040@0.0.1920.1040" timestamp="1603218809666" />
+    <state width="914" height="361" key="GridCell.Tab.0.left" timestamp="1603218809666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="361" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-113.1920.1040@0.0.1920.1040" timestamp="1598208634416" />
+    <state width="914" height="361" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.121.1920.1040@0.0.1920.1040" timestamp="1603218809666" />
+    <state width="914" height="361" key="GridCell.Tab.0.right" timestamp="1603218809666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="361" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-113.1920.1040@0.0.1920.1040" timestamp="1598208634416" />
+    <state width="914" height="361" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.121.1920.1040@0.0.1920.1040" timestamp="1603218809666" />
+    <state x="880" y="0" key="SettingsEditor" timestamp="1601746629017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="0" key="SettingsEditor/0.0.1920.1040/-1920.121.1920.1040@0.0.1920.1040" timestamp="1601746629017" />
+  </component>
+</project>
